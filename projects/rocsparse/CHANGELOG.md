@@ -3,6 +3,37 @@
 Documentation for rocSPARSE is available at
 [https://rocm.docs.amd.com/projects/rocSPARSE/en/latest/](https://rocm.docs.amd.com/projects/rocSPARSE/en/latest/).
 
+## Since last release
+
+### Added
+
+* Added item.
+* Second added item.
+
+### Changed
+
+* Changed item.
+
+### Removed
+
+* Removed item.
+
+### Optimized
+
+* Optimized item.
+
+### Resolved issues
+
+* Resolved issue.
+
+### Known issues
+
+* Known issue.
+
+### Upcoming changes
+
+* Upcoming change.
+
 ## rocSPARSE 4.6.0 for ROCm 7.13.0
 
 ### Added
